@@ -1,0 +1,27 @@
+export { 
+    User, 
+    Stethoscope, 
+    QrCode, 
+    FileText, 
+    LogIn, 
+    UserPlus, 
+    Hospital,
+    ShieldCheck,
+    AlertTriangle,
+    FileDown,
+    X,
+    LayoutDashboard,
+    Users,
+    Search,
+    Trash2,
+    FilePenLine,
+    Landmark,
+    BarChart3,
+    CheckCircle2,
+    AlertCircle,
+    HeartPulse,
+    // Fix: 'lucide-react' has no exported member named 'ClipboardText'. Replaced with 'ClipboardList'.
+    ClipboardList,
+    FlaskConical,
+    Sparkles
+} from 'lucide-react';

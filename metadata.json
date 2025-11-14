@@ -1,0 +1,7 @@
+{
+  "name": "I-HDIM5: Integrated Health Data Information & Management System",
+  "description": "A prototype of a comprehensive health data management system for patients, doctors, and government monitoring. This frontend application demonstrates the patient-doctor portal.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
